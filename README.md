@@ -5,7 +5,7 @@ A concept for a front end web development interview
 
 Build a simple webpage with html/css/js demonstrating the following: 
 
-Project Structure
-DOM manipulation 
-An onclick event 
-Basic styling with css - make it look as good as possible given the time constraint
+- Project Structure
+- DOM manipulation 
+- An onclick event 
+- Basic styling with css - make it look as good as possible given the time constraint
